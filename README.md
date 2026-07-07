@@ -30,5 +30,5 @@ QA Automation Engineer — VerasoftLab (Remote)
 IEEE publication • 800+ coding problems solved • Cloud & Docker certified
 
 ### 📫 Contact
-Email: mostahidhasan15@gmail.com  
-LinkedIn: linkedin.com/in/mostahidhasan
+- Email: mostahidhasan15@gmail.com  
+- LinkedIn: [linkedin.com/in/mostahidhasan](https://www.linkedin.com/in/mostahid-fahim-55873720b/)

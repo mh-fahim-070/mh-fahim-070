@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Mostahid Hasan Fahim
 
-<!--
-**mh-fahim-070/mh-fahim-070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Engineer & Software Developer** focused on building:
+- LLM-powered systems (RAG, prompt evaluation, clarification pipelines)
+- Real-time applications (chat, collaboration tools)
+- Scalable full-stack and desktop systems
 
-Here are some ideas to get you started:
+### 🔧 Tech I Work With
+- **AI / ML**: LLMs, RAG, Prompt Engineering
+- **Backend**: Node.js, Express, Java, Socket Programming
+- **Frontend**: React, JavaFX
+- **Languages**: TypeScript, JavaScript, Java
+- **Architecture**: Client–Server, MVC, OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Availability
+- On side or Remote

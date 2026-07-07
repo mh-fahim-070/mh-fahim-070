@@ -14,7 +14,14 @@ AI automation, and scalable applications.
 - Full-stack & desktop development
 
 ### 🔧 Tech Stack
-AI/ML, Python, TypeScript, Java, FastAPI, Node.js, React, JavaFX, Docker, CI/CD
+- **AI / ML**: LLMs, RAG, Prompt Engineering, Embeddings, Semantic Search, Evaluation Frameworks
+- **Backend**: FastAPI, Node.js, Express, REST APIs
+- **Frontend**: React, JavaFX
+- **Languages**: Python, TypeScript, JavaScript
+- **Databases**: PostgreSQL, MongoDB, Vector DBs, Redis
+- **Automation**: n8n, Webhooks, AI Workflows
+- **DevOps**: Docker, Git, CI/CD
+- **Cloud**: AWS Fundamentals
 
 ### 🚀 Featured Projects
 - AI Prompt Quality Evaluation System
